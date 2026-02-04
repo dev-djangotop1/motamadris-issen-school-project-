@@ -1,0 +1,100 @@
+{
+  "ADS_GLOBAL": {
+    "admob": {
+      "Admob_Banner": "ca-app-pub-9475230307763272/4266798167",
+      "Admob_Inter": "ca-app-pub-9475230307763272/5388308143",
+      "Admob_id": "ca-app-pub-9475230307763272~7503214481",
+      "Admob_nativ": "ca-app-pub-9475230307763272/9537273853",
+      "Admob_open_app": "ca-app-pub-9475230307763272/6723446241",
+      "Admob_vedio_ads": "ca-app-pub-9475230307763272/6474876996",
+      "Admob_Inter_vedio": "ca-app-pub-9475230307763272/4786390808",
+      "ca-app-pub": "pub-9475230307763272"
+    },
+    "cpa": {
+      "banner_cpa": [
+        {
+          "banner_cpa_image": "https://i.imgur.com/d9GjmvN.png",
+          "banner_cpa_link": "https://play.google.com/store/apps/details?id=com.premiere_bac.science"
+        },
+        {
+          "banner_cpa_image": "https://i.imgur.com/dZwyR9Q.png",
+          "banner_cpa_link": "https://play.google.com/store/apps/details?id=com.men.telmidtice"
+        },
+        {
+          "banner_cpa_image": "https://i.imgur.com/7yTuE6b.png",
+          "banner_cpa_link": "https://play.google.com/store/apps/details?id=com.learn_english.easily"
+        },
+        {
+          "banner_cpa_image": "https://i.imgur.com/pwLIG9q.png",
+          "banner_cpa_link": "https://play.google.com/store/apps/details?id=com.bac.of_science"
+        }
+      ],
+      "inter_cpa": [
+        {
+          "html": "https://almofed.com/apps/ads/ads1/",
+          "inter_cpa_image": "https://i.imgur.com/b9lVCyK.png",
+          "inter_cpa_link": "https://play.google.com/store/apps/details?id=com.facebook.lite1",
+          "inter_cpa_text": "merci",
+          "chose_cpa_ads": "html"
+        },
+        {
+          "html": "",
+          "inter_cpa_image": "https://firebasestorage.googleapis.com/v0/b/app-english-e76ba.appspot.com/o/ADS%2Finter%2F1i3.png?alt=media&token=7d97c2f0-aed6-4f15-8ea6-165822dc4ca0",
+          "inter_cpa_link": "https://play.google.com/store/apps/details?id=com.facebook.lite1",
+          "inter_cpa_text": "1إعلان ممول، برعاية almfed.com ",
+          "chose_cpa_ads": "text"
+        },
+        {
+          "html": "",
+          "inter_cpa_image": "https://firebasestorage.googleapis.com/v0/b/app-english-e76ba.appspot.com/o/ADS%2Finter%2F1i3.png?alt=media&token=7d97c2f0-aed6-4f15-8ea6-165822dc4ca0",
+          "inter_cpa_link": "https://play.google.com/store/apps/details?id=com.facebook.lite1",
+          "inter_cpa_text": "2إعلان ممول، برعاية almfed.com ",
+          "chose_cpa_ads": "text"
+        }
+      ]
+    },
+    "facebook": {
+      "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_inter": "IMG_16_9_APP_INSTALL#815059612662416_985167442318298",
+      "facebook_nativ": 43434
+    },
+    "setting_ads": {
+      "ads_chose_banner": "admob",
+      "ads_chose_inter": "admob",
+      "contorFir": "3",
+      "COUNTER_TIME": 12,
+      "openAp_admob": "false",
+      "show_phon_ads": "true"
+    },
+    "setting_app": {
+      "add_coins": "true",
+      "ADS_ON_OFF": "true",
+      "Privcy_Policy": "https://almofed.com/Privcy%20Policy/moutamadriss.html",
+      "redirct_url": "https://almofed.com/",
+      "redirct_force": "false",
+      "typdata": "json",
+      "rocource_api": "https://moutamadriss.ma",
+      "page_star_api": "acceuil"
+    },
+    "message": {
+      "show_message_app": "true",
+      "message_app": "DRAGON KHTARE9 TATBI9 HHHHHHHH @Essalehy Baby",
+      "image_messag_app": ""
+    },
+    "update_contunt": {
+      "update_verssion": 10,
+      "url_json": "https://almofed.com/apps/app_motamadriss/get_data_app.json",
+      "url_json_data": "https://almofed.com/apps/3eme_college_arabe/all_data.json"
+    },
+    "update": {
+      "auto_update": 4,
+      "force_updat": false,
+      "logo_updat": "https://play-lh.googleusercontent.com/FLOEhnLDRrVuywwLlOgFhOr3Pd6JZCssMKKyF2tYA0jVfvRg-3vuEqmQ6yhnycy0oiug=w240-h480-rw",
+      "message": "المرجو تحديث التطبيق للحصول على أحدث مميزاته",
+      "press_to_open": "تحديث التطبيق الآن",
+      "title_msg": "توجد نسخة جديدة",
+      "updateto": 1,
+      "url_update": "https://play.google.com/store/apps/details?id=com.jihawi.arab_3"
+    }
+  }
+}
