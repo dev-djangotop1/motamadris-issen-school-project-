@@ -83,7 +83,7 @@
     },
     "update_contunt": {
       "update_verssion": 10,
-      "url_json": "https://almofed.com/apps/app_motamadriss/get_data_app.json",
+      "url_json": "https://raw.githubusercontent.com/dev-djangotop1/motamadris-issen-school-project-/main/get_data_app.json",
       "url_json_data": "https://almofed.com/apps/3eme_college_arabe/all_data.json"
     },
     "update": {
